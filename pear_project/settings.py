@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 import os
 import django_on_heroku
-django_on_heroku.settings(locals())
+
 from pathlib import Path
 from datetime import timedelta
 
@@ -198,3 +198,4 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'static'),
 )
+django_on_heroku.settings(locals())
