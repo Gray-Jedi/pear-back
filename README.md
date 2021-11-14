@@ -63,3 +63,5 @@ Pear is a peer to peer E-Commerce app that empowers users to post listings for t
 [React Bootstrap](https://react-boo tsrap.github.io/)
 [Miro](https://miro.com/app/)  
  [Net Ninja](https://www.youtu be.com/c/TheNetNinja)
+
+Touch
