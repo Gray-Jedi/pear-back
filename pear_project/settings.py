@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'whitenoise.runserver_nostatic',
+    'django_heroku',
     'rest_framework',
     'api.apps.ApiConfig',
     'corsheaders',
