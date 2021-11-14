@@ -1,13 +1,9 @@
-asgiref @ file:///Users/kevinhenry/Library/Caches/pypoetry/artifacts/66/e6/9d/1120805fa1cbf481e628bb06bdda3cc7a6623fce6ed7ceccf057e53faf/asgiref-3.4.1-py3-none-any.whl
-dj-database-url==0.5.0
-Django @ file:///Users/kevinhenry/Library/Caches/pypoetry/artifacts/99/12/10/e0752c82091f32f6e2b4b31ad70753b5fd98e053e210a291087ccd66e8/Django-3.2.9-py3-none-any.whl
-django-cors-headers @ file:///Users/kevinhenry/Library/Caches/pypoetry/artifacts/dd/ec/a9/a3190139d3f828d2d56d102db49c1cd2b92b86d22b6d76e341e49ee5be/django_cors_headers-3.10.0-py3-none-any.whl
-djangorestframework @ file:///Users/kevinhenry/Library/Caches/pypoetry/artifacts/fb/5f/69/72d512d3451e60f943ea0ccb48c912d2eecb840af9f770327a2c755329/djangorestframework-3.12.4-py3-none-any.whl
-djangorestframework-simplejwt @ file:///Users/kevinhenry/Library/Caches/pypoetry/artifacts/bf/da/ff/73a63e38eba1ae7e47856d9e03dfdd2a202c3e3f0a7a0e17b9f7e30eb1/djangorestframework_simplejwt-5.0.0-py3-none-any.whl
-gunicorn==20.1.0
-Pillow @ file:///Users/kevinhenry/Library/Caches/pypoetry/artifacts/1b/b2/f1/817beab7adba38c2530dd8a3cfcba1f2089b9cbe9f49b768e0011d68c8/Pillow-8.4.0-cp310-cp310-macosx_11_0_arm64.whl
-psycopg2-binary==2.9.2
-PyJWT @ file:///Users/kevinhenry/Library/Caches/pypoetry/artifacts/e9/97/55/3587a3d8195ac301418135e6c116922088024d2f607f5bd57c3f2ccb2d/PyJWT-2.3.0-py3-none-any.whl
-pytz @ file:///Users/kevinhenry/Library/Caches/pypoetry/artifacts/a0/f8/66/b50e6d372fa21e4d6db4b2fe5c5e94aaf59b82d02a7b3215fbc4fae889/pytz-2021.3-py2.py3-none-any.whl
-sqlparse @ file:///Users/kevinhenry/Library/Caches/pypoetry/artifacts/10/f5/22/c9c991a71e27c4d8f69907d92cce74a369cbb3183dc4a6d27e2ae4ab0b/sqlparse-0.4.2-py3-none-any.whl
-whitenoise==5.3.0
+asgiref==3.4.1; python_version >= "3.10.0"
+django-cors-headers==3.10.0; python_version >= "3.10.0"
+django==3.2.9; python_version >= "3.10.0"
+djangorestframework-simplejwt==5.0.0; python_version >= "3.10.0"
+djangorestframework==3.12.4; python_version >= "3.5"
+pillow==8.4.0; python_version >= "3.10.0"
+pyjwt==2.3.0; python_version >= "3.10.0"
+pytz==2021.3; python_version >= "3.10.0"
+sqlparse==0.4.2; python_version >= "3.10.0"
